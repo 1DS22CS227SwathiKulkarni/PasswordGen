@@ -1,0 +1,29 @@
+body{
+    
+    margin:10px;
+    padding:10px;
+    font-family:'arial','sans-serif';
+}
+h2{
+    font-size: 40px;
+    font-weight: bold;
+    color:blueviolet;
+}
+p{
+    font-size: 20px;
+    color: black;
+}
+.box{
+    margin: 10px;
+    padding:20px;
+    height: 250px;
+    box-sizing: border-box;
+    background-color: aqua;
+    border-color: rgb(186, 28, 157);
+}
+button{
+    background-color: blueviolet;
+    color:aliceblue;
+    height:50px;
+    width: 100px;
+}
